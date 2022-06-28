@@ -1,5 +1,4 @@
-### Hi there 👋
-Hi 👋 I am junior Kotlin \ GDScript(Godot) programmer.
+### Hi there 👋 I am junior Kotlin \ GDScript programmer.
 
 <!--
 **abochar/abochar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
