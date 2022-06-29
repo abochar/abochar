@@ -1,6 +1,9 @@
 ### Hi there 👋 I am junior Kotlin \ GDScript programmer.
 - 🌱 I’m currently learning Kotlin
 
+![This is an image](https://github.com/abochar/abochar/blob/main/Console.png?raw=true)
+
+
 <!--
 **abochar/abochar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
